@@ -64,7 +64,7 @@ ROWS = [
     ("kv", "Roblox", "ceo2000_08yt"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "100k+ visits across Roblox games"),
+    ("bul", "Collaborated on a 10M+ visit Roblox game"),
     ("bul", "Shipped sites for real companies"),
 ]
 
