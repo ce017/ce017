@@ -39,3 +39,10 @@ jobs:
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
           file_pattern: "data/contributions.json contrib-heatmap.svg"
+          # Attribute the bot's commits to github-actions[bot], not the repo
+          # owner. The action's default author is github.actor, which on a
+          # scheduled run is the owner -- so every daily refresh would count as
+          # one of the owner's own contributions and fill in the graph.
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
