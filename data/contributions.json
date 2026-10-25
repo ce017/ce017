@@ -1,12 +1,12 @@
 {
   "username": "ce017",
-  "generated_at": "2026-10-24T10:59:17Z",
+  "generated_at": "2026-10-25T11:27:54Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 1568,
-  "active_days": 288,
+  "total_contributions": 1542,
+  "active_days": 284,
   "avg_per_active_day": 5.4,
   "current_streak": {
     "length": 0,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 42
+      "total": 16
     },
     {
       "month": "2025-11",
@@ -77,41 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 9,
-      "level": 3
-    },
-    {
-      "date": "2025-10-21",
-      "count": 6,
-      "level": 2
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 9,
-      "level": 3
-    },
-    {
-      "date": "2025-10-25",
-      "count": 2,
-      "level": 1
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-24",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
